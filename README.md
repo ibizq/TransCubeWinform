@@ -1,5 +1,11 @@
+# TransCubeWinform
+Make TransCube running in Window Standalone by using CefSharp.
+* To play need to RunasAdministrator! cause need to create HttpInstance.
 
-
+# Ingredient
+* Original Project : https://github.com/tyroroto/ggo13-transcube
+* https://github.com/tyroroto/DotnetSimpleHttpServer 
+* https://github.com/cefsharp/CefSharp
 
 *Needs cookies (localstorage) enabled..*
 
